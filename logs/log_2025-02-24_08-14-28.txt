@@ -1,0 +1,9 @@
+[2025-02-24 08:14:28] Starting script: D:/RPA/screenreport/screenreport.py
+[2025-02-24 08:15:49] Screenshot saved: screenshots\20250224_081430\10_59_156_2.png
+[2025-02-24 08:15:49] Sent screenshots\20250224_081430\10_59_156_2.png to Telegram!
+[2025-02-24 08:15:49] Screenshot saved: screenshots\20250224_081430\10_59_156_3.png
+[2025-02-24 08:15:49] Sent screenshots\20250224_081430\10_59_156_3.png to Telegram!
+[2025-02-24 08:15:49] Screenshot saved: screenshots\20250224_081430\10_59_156_5.png
+[2025-02-24 08:15:49] Sent screenshots\20250224_081430\10_59_156_5.png to Telegram!
+[2025-02-24 08:15:49] Screenshot saved: screenshots\20250224_081430\10_59_156_6.png
+[2025-02-24 08:15:49] Sent screenshots\20250224_081430\10_59_156_6.png to Telegram!

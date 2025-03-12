@@ -1,0 +1,5 @@
+[2025-02-24 13:33:51] Starting script: D:/RPA/screenprod/screenreport.py
+[2025-02-24 13:34:12] Screenshot saved: screenshots\20250224_133351\sv-app-ign3pr.png
+[2025-02-24 13:34:12] Sent screenshots\20250224_133351\sv-app-ign3pr.png to Telegram!
+[2025-02-24 13:34:12] Screenshot saved: screenshots\20250224_133351\sv-app-ign3pr.png
+[2025-02-24 13:34:12] Sent screenshots\20250224_133351\sv-app-ign3pr.png to Telegram!

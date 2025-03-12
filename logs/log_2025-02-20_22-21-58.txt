@@ -1,0 +1,20 @@
+[2025-02-20 22:21:58] Starting script: D:/RPA/inputform/belajar.py
+[2025-02-20 22:22:05] Opening Browser...
+[2025-02-20 22:22:05] Website opened
+[2025-02-20 22:22:08] ERROR: Traceback (most recent call last):
+[2025-02-20 22:22:08] ERROR:   File "D:\RPA\inputform\belajar.py", line 22, in <module>
+[2025-02-20 22:22:08] ERROR:     data = pd.read_excel('data.xlsx')
+[2025-02-20 22:22:08] ERROR:            ^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2025-02-20 22:22:08] ERROR:   File "D:\Users\naufal.aditya\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\io\excel\_base.py", line 504, in read_excel
+[2025-02-20 22:22:08] ERROR:     io = ExcelFile(
+[2025-02-20 22:22:08] ERROR:          ^^^^^^^^^^
+[2025-02-20 22:22:08] ERROR:   File "D:\Users\naufal.aditya\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\io\excel\_base.py", line 1563, in __init__
+[2025-02-20 22:22:08] ERROR:     ext = inspect_excel_format(
+[2025-02-20 22:22:08] ERROR:           ^^^^^^^^^^^^^^^^^^^^^
+[2025-02-20 22:22:08] ERROR:   File "D:\Users\naufal.aditya\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\io\excel\_base.py", line 1419, in inspect_excel_format
+[2025-02-20 22:22:08] ERROR:     with get_handle(
+[2025-02-20 22:22:08] ERROR:          ^^^^^^^^^^^
+[2025-02-20 22:22:08] ERROR:   File "D:\Users\naufal.aditya\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\io\common.py", line 872, in get_handle
+[2025-02-20 22:22:08] ERROR:     handle = open(handle, ioargs.mode)
+[2025-02-20 22:22:08] ERROR:              ^^^^^^^^^^^^^^^^^^^^^^^^^
+[2025-02-20 22:22:08] ERROR: FileNotFoundError: [Errno 2] No such file or directory: 'data.xlsx'

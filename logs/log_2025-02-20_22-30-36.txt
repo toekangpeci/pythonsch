@@ -1,0 +1,6 @@
+[2025-02-20 22:30:36] Starting script: D:/RPA/inputform/belajar.py
+[2025-02-20 22:30:54] Opening Browser...
+[2025-02-20 22:30:54] Website opened
+[2025-02-20 22:30:54] Data for 'nopal' successfully written to Excel.
+[2025-02-20 22:30:54] Data for 'kedua' successfully written to Excel.
+[2025-02-20 22:30:54] Data for 'KETIGA' successfully written to Excel.
